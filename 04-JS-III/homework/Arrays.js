@@ -1,0 +1,2 @@
+//Arrays: Son matrices que funcionan como contenedores de almacenamiento para colecciones de datos. Construirlas es simple, basta con declarar una variable y establecerla en [].
+//Luego podemos agregarle cadenas, números o booleanos (separados por coma) y acceder a estos cuando lo deseemos. 
